@@ -7,6 +7,7 @@ public class Pessoa {
 	// atributos
 	private String nome;
 	private int maxLivros;
+	private int idade;
 	
 	// construtor
 	public Pessoa() {
